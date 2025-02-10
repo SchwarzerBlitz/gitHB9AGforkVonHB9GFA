@@ -1,0 +1,3 @@
+Das ist eine reine Textdatei um Git zu testen.
+Harzi hätte gerne einen Flugzeugträger.
+Harzi meint jedoch, dass man keine ä, ü, ö verwenden sollte.
